@@ -55,7 +55,7 @@ export default {
         { key: 'facebook', prefixURL: 'https://facebook.com/' },
         { key: 'twitter', prefixURL: 'https://twitter.com/' },
         { key: 'linkedin', prefixURL: 'https://linkedin.com/' },
-        { key: 'github', prefixURL: 'https://github.com/' },
+        { key: 'github', prefixURL: 'https://app.clickup.com/t/' },
       ],
     };
   },
